@@ -38,6 +38,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -59,11 +61,13 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
