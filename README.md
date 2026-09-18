@@ -58,6 +58,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -100,4 +101,8 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
