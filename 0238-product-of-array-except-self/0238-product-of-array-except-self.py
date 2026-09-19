@@ -12,7 +12,7 @@ class Solution:
 
         # return ans
         n = len(nums)
-        ans = [0] * n
+        ans = [None] * n
         print(ans)
         # single forward pass for prefix
         prefix = 1
