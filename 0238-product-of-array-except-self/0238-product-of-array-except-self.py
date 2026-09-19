@@ -12,7 +12,8 @@ class Solution:
 
         # return ans
         n = len(nums)
-        ans = [1] * n
+        ans = [0] * n
+        print(ans)
         # single forward pass for prefix
         prefix = 1
         for i in range(n):
