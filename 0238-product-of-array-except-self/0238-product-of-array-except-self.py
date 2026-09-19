@@ -5,37 +5,33 @@ class Solution:
         # for idx, val in enumerate(nums):
         #     mul = 1
         #     for idx2, val2 in enumerate(nums):
-        #         if idx != idx2:
+        #         # if idx != idx2:
+        #         #     mul = mul * val2
+        #         if idx == idx2:
+        #             continue
+        #         else:
         #             mul = mul * val2
+
         #     ans.append(mul)
         # print(ans)
 
         # return ans
         n = len(nums)
-        ans = [None] * n
+        ans = [1] * n
+        # ans = [1]
         print(ans)
         # single forward pass for prefix
         prefix = 1
         for i in range(n):
             ans[i] = prefix
+            print(ans[i])
             prefix *= nums[i]
-
             # prefix = prefix * ans[i]
 
         # single backward pass for suffix
-        suffix =1
+        suffix = 1
         for i in range(n-1, -1 , -1):
             ans[i] *= suffix
             suffix *= nums[i]
         
         return ans
-            
-       
-
-
-            
-        
-
-            
-
-        
