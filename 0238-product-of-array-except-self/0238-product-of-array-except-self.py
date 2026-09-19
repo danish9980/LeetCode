@@ -2,14 +2,12 @@ class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
 
         # ans = []
-        # mul = 1
         # for idx, val in enumerate(nums):
         #     mul = 1
         #     for idx2, val2 in enumerate(nums):
         #         if idx != idx2:
         #             mul = mul * val2
         #     ans.append(mul)
-
         # print(ans)
 
         # return ans
@@ -23,7 +21,7 @@ class Solution:
 
             # prefix = prefix * ans[i]
 
-         # single backward pass for suffix
+        # single backward pass for suffix
         suffix =1
         for i in range(n-1, -1 , -1):
             ans[i] *= suffix
