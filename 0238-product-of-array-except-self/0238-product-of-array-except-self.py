@@ -24,9 +24,9 @@ class Solution:
         prefix = 1
         for i in range(n):
             ans[i] = prefix
-            print(ans[i])
             prefix *= nums[i]
             # prefix = prefix * ans[i]
+            print(ans[i])
 
         # single backward pass for suffix
         suffix = 1
