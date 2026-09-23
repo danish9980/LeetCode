@@ -4,6 +4,7 @@ class Solution:
         num_set = set(nums)
 
         longest = 0
+        # with list it gives a TLE on case 81 because of duplicates values.
         for n in num_set:
             # if the n-1 is not in set then it means this can be a start of a sequence.
             if n-1 not in num_set:
