@@ -1,37 +1,25 @@
 class Solution:
     def productExceptSelf(self, nums: list[int]) -> list[int]:
-
-        # ans = []
-        # for idx, val in enumerate(nums):
-        #     mul = 1
-        #     for idx2, val2 in enumerate(nums):
-        #         # if idx != idx2:
-        #         #     mul = mul * val2
-        #         if idx == idx2:
-        #             continue
-        #         else:
-        #             mul = mul * val2
-
-        #     ans.append(mul)
-        # print(ans)
-
-        # return ans
-        n = len(nums)
-        ans = [1] * n
-        # ans = [1]
-        print(ans)
-        # single forward pass for prefix
-        prefix = 1
-        for i in range(n):
-            ans[i] = prefix
-            prefix *= nums[i]
-            # prefix = prefix * ans[i]
-            print(ans[i])
-
-        # single backward pass for suffix
-        suffix = 1
-        for i in range(n-1, -1 , -1):
-            ans[i] *= suffix
-            suffix *= nums[i]
         
-        return ans
+        n = len(nums)
+        pre_array = [1] * n
+        post_array = [1] * n
+        res = [1] * n
+
+        prefix = 1 
+        for i in range(n):
+            pre_array[i] = prefix
+            prefix *= nums[i]
+        
+        postfix= 1
+        for i in range(n-1, -1 , -1):
+            post_array[i] = postfix
+            postfix *= nums[i]
+
+        for i in range(n):
+            res[i] = pre_array[i] * post_array[i]
+
+        return res
+
+
+        
