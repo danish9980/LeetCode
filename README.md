@@ -56,6 +56,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | ------- |
 | [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/danish9980/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -105,4 +107,8 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
