@@ -6,6 +6,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -44,6 +45,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Breadth-First Search
 |  |
@@ -54,6 +56,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -111,4 +114,12 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
