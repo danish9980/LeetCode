@@ -11,8 +11,9 @@ class Solution:
         total_water = 0
         while left<=right:
             if leftwall < rightwall:
-                leftwall = max(leftwall , height[left])
-                total_water = total_water+ leftwall - height[left]
+                # if right wall is greater then we know that that left wall is smaller and hence we take the max height of that wall to keep the leftwall updated.
+                leftwall = max(leftwall, height[left])
+                total_water = total_water + leftwall - height[left]
                 left+=1
                
             else:
@@ -22,3 +23,6 @@ class Solution:
                 right-=1
                 
         return total_water
+
+
+
