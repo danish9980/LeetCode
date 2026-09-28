@@ -47,6 +47,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/danish9980/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Breadth-First Search
 |  |
@@ -128,4 +129,12 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danish9980/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/danish9980/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/danish9980/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
