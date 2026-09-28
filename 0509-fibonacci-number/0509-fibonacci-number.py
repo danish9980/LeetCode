@@ -14,6 +14,7 @@ class Solution:
             # 0 ,1 
         a = [0,1]
 
+        # range misses the last value. 
         for i in range(2,n+1):
             a.append(a[i-2] + a[i-1])
         
