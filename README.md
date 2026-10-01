@@ -43,6 +43,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0242-valid-anagram](https://github.com/danish9980/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/danish9980/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/danish9980/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/danish9980/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danish9980/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/danish9980/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
