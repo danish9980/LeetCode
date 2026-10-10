@@ -8,7 +8,7 @@ class Solution:
         n = nums
 
         while r < l:
-            m = (r+l) //2
+            m = r + (l-r) //2
             if n[m] ==t:
                 return m
             elif n[m] > t:
