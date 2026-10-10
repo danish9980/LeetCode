@@ -60,6 +60,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/danish9980/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -151,5 +152,6 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/danish9980/LeetCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
