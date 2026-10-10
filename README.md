@@ -68,6 +68,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,4 +148,8 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/danish9980/LeetCode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
