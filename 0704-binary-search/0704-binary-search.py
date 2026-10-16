@@ -1,18 +1,23 @@
 class Solution:
-    def search(self, nums: list[int], target: int) -> int: 
+    def search(self, nums: list[int], target: int) -> int:
 
-        r = 0
-        l = len(nums)
-        n =nums
-        t = target
+        l = 0
+        r = len(nums)
+        t =  target
 
-        while r<l:
-            m = (r+l) //2
-            if n[m] == t:
+        while l<r:
+            # integer overflow
+            # m =  (l+r)//2
+            m = l+ (r-l) // 2
+
+            # find the value in middle
+            if nums[m] == target:
                 return m
-            elif n[m] > t:
-                l = m
-            elif n[m] < t:
-                r = m+1
-            
-        return -1      
+
+            if nums[m] < t:
+                l = m + 1
+            else:
+                r = m
+
+        return -1
+        # neetcode 150
