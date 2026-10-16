@@ -66,6 +66,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/danish9980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -153,5 +154,6 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/danish9980/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/danish9980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
