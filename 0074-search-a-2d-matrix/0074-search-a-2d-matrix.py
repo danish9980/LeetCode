@@ -72,9 +72,9 @@ class Solution:
         # assuming that all rows have equal length
         n_cols = len(matrix[0])
 
-        r = (n_rows  * n_cols ) - 1
+        r = (n_rows  * n_cols )
 
-        while l <= r:
+        while l < r:
 
             m = (l + r)//2
 
@@ -86,11 +86,13 @@ class Solution:
             # is it necessory to put multiple if branches here?
             if val == target:
                 return True
-            
+            # why increment
             if val < target:
                 l = m+1
 
+            # why decrement here, but not in previous questions.
+            # 
             if val > target:
-                r = m - 1 
+                r = m 
             
-        return False    
+        return False
