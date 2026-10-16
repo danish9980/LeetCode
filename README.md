@@ -64,6 +64,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0042-trapping-rain-water](https://github.com/danish9980/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/danish9980/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/danish9980/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/danish9980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danish9980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -154,6 +155,11 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/danish9980/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/danish9980/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danish9980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/danish9980/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
