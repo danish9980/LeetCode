@@ -74,6 +74,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0238-product-of-array-except-self](https://github.com/danish9980/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/danish9980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,8 +163,13 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0074-search-a-2d-matrix](https://github.com/danish9980/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danish9980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/danish9980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/danish9980/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/danish9980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
