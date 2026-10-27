@@ -76,6 +76,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0347-top-k-frequent-elements](https://github.com/danish9980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/danish9980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/danish9980/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0162-find-peak-element](https://github.com/danish9980/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/danish9980/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/danish9980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/danish9980/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
