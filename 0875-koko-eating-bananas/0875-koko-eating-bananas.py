@@ -10,7 +10,7 @@ class Solution:
         # min speed of koko
         l = 1
         # max speed of koko
-        r = max(piles) + 1000
+        r = max(piles) + 20
 
         # terminate l == r
         # loop invariant
