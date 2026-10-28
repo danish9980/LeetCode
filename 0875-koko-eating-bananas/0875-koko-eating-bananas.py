@@ -1,22 +1,32 @@
 class Solution:
     def minEatingSpeed(self, piles: list[int], h: int) -> int:
-        
-        # don't do off by one error.
-        l = 1 
+
+    #    0, 
+    #    1, 2, 3, 4, 5, 6, 7,8, 9, 10, 11
+    # ( 1, 11 ]
+    # [1, 11)
+
+        # min speed of koko
+        l = 1
+        # max speed of koko
         r = max(piles)
 
-
-        while l<r:
-            m = l+ (r-l) //2 
-            # m = (l+r)//2
-            hours = 0
-            for p in piles:
-                hours = hours + math.ceil(p/m)
+        # terminate l == r
+        while l < r:
             
-            if hours <= h:
+            # 7.5 , floor division
+            # ceil
+            m = (l+r) // 2
+
+            total_hours_needed_to_complete_all_the_piles_within_h = 0
+            for p in piles:
+                # floor
+                total_hours_needed_to_complete_all_the_piles_within_h += ceil(p/m)
+            
+            if total_hours_needed_to_complete_all_the_piles_within_h <= h:
                 r = m
-                # l = m+1
+            
             else:
-                # r = m
-                l = m+ 1
-        return r
+                l = m+1
+
+        return l
