@@ -2,16 +2,20 @@ class Solution:
     def minEatingSpeed(self, piles: list[int], h: int) -> int:
 
     #    0, 
-    #    1, 2, 3, 4, 5, 6, 7,8, 9, 10, 11
+    #    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
     # ( 1, 11 ]
     # [1, 11)
 
         # min speed of koko
         l = 1
         # max speed of koko
-        r = max(piles)
+        r = max(piles) + 20
 
         # terminate l == r
+        # loop invariant
+        # premise (predicate)
+        # maintainence
+        # termination
         while l < r:
             
             # 7.5 , floor division
@@ -30,3 +34,7 @@ class Solution:
                 l = m+1
 
         return l
+
+        # f f f f f f f f f t t t t t t t t t 
+        # bridge will break
+        
