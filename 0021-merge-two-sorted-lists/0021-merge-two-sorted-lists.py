@@ -6,7 +6,8 @@
 class Solution:
     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
         
-        temp_head = ListNode("khuch bhi")
+        # if you add no value to the node it will add a default 0
+        temp_head = ListNode()
         curr   = temp_head
 
         while list1 and list2:
@@ -23,7 +24,7 @@ class Solution:
 
         curr.next  = list1 if list1 else list2
 
-        return temp_head.next                        
+        return temp_head.next            
         
 
         
