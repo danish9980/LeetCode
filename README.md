@@ -155,6 +155,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/danish9980/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/danish9980/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -176,4 +177,8 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/danish9980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/danish9980/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
