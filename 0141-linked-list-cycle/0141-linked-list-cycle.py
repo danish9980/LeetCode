@@ -9,7 +9,7 @@ class Solution:
 
         # next
 
-        if not head:
+        if not head or not head.next:
             return False
 
         slow = head
