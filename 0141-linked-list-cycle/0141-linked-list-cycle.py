@@ -21,10 +21,10 @@ class Solution:
         if not fast.next:
             return False
 
-        while fast and fast.next and fast.next.next:
+        while fast and fast.next and fast.next.next and fast.next.next.next:
             
             slow = slow.next
-            fast = fast.next.next.next
+            fast = fast.next.next.next.next
 
             if slow == fast:
                 return True
