@@ -21,27 +21,27 @@ class Solution:
         if not fast.next:
             return False
 
-        # while fast and fast.next and fast.next.next and fast.next.next.next:
-            
-        #     slow = slow.next
-        #     fast = fast.next.next.next.next
-
-        #     if slow == fast:
-        #         return True
-
-
-        # return False
-
-        while fast and fast.next:
+        while fast and fast.next and fast.next.next and fast.next.next.next:
             
             slow = slow.next
-            fast = fast.next.next
+            fast = fast.next.next.next.next
 
             if slow == fast:
                 return True
 
 
         return False
+
+        # while fast and fast.next:
+            
+        #     slow = slow.next
+        #     fast = fast.next.next
+
+        #     if slow == fast:
+        #         return True
+
+
+        # return False
 
 
         # seen = ()
