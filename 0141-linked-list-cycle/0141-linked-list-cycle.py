@@ -21,14 +21,39 @@ class Solution:
         if not fast.next:
             return False
 
-        while fast and fast.next:
+        while fast and fast.next and fast.next.next:
             
             slow = slow.next
-            fast = fast.next.next
+            fast = fast.next.next.next
 
             if slow == fast:
                 return True
 
 
         return False
+
+
+        # seen = ()
+        # curr =head
+        # while curr:
+        #     curr in seen:
+        #         return true
+        #     curr = curr.next
+        
+        # return false
+
+        # curr = head
+        # while curr:
+        #     if curr.val is "visited":
+        #         return True
+        #     curr.val = "visited"
+        #     curr = curr.next
+        
+        # return false
+
+        # curr = head
+        # while curr:
+        #     curr = curr.next
+
+
         
